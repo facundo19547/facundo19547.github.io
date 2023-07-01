@@ -1,0 +1,116 @@
+
+nav{
+    background-color: rgb(230, 230, 230);
+}
+
+.kk{
+    color: white;
+    transform: translate(0,150px);
+}
+
+.fondo1{
+    height: 700px;
+    background-image: url("img/fondo\ p\ 3.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.principal {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boton{
+        color: black;
+        background-color: rgb(255, 211, 0);
+}
+
+.rr{
+    margin-top: 5.25rem;
+    font-size: 30px;
+    text-align: left;
+}
+
+.img1{
+    box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.3);
+}
+.img2{
+    box-shadow: -10px 10px 0px 0px rgba(0, 0, 0, 0.3);
+}
+
+.texto{
+    margin-bottom: 6.25rem;
+}
+
+.app{
+    z-index: 1;
+    width: 100%;
+    max-width: 100%;
+    min-height: 600px;
+    background-image: url(img/63a9d9d29e3218f4d092c389_FONDO\ App\ PNG\ nuevo.png);
+    background-position: 50% 100%;
+    background-size: cover;
+    margin-bottom: -2px;
+    padding: 50px 60px 100px 10px;
+    display: flex;
+    position: relative;
+}
+
+.y{
+    padding-top: 40px;
+}
+.icono{
+    text-align: left;
+    font-size: 90px;
+}
+
+.gg{
+    padding: .625rem;
+}
+
+.l{
+    opacity: 0;
+}
+
+.ll{
+    padding-top: 0;
+    padding-bottom: 5.625rem;
+}
+
+.tar{
+    color: black;
+    background-color: rgb(255, 211, 0);
+}
+
+.num{
+    font-size: 40px;
+}
+
+.card{
+    margin-bottom: 1.25rem;
+}
+
+.fondo{
+        z-index: 1;
+        width: 100%;
+        max-width: 100%;
+        min-height: 600px;
+        background-image: url(img/fondo.png);
+        background-position: 50% 100%;
+        background-size: cover;
+        margin-bottom: -2px;
+        padding: 120px 60px 100px;
+        display: flex;
+        position: relative;
+}
+
+.redes{
+    color: aliceblue;
+    margin-right: 60px;
+    font-size: 40px;
+}
+
+
+
